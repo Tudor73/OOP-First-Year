@@ -1,5 +1,7 @@
 #ifndef OOP_FIRST_YEAR_MULTIME_DINAMICA_H
 #define OOP_FIRST_YEAR_MULTIME_DINAMICA_H
+#include <iostream>
+#include <stdlib.h>
 
 
 class Multime_dinamic{

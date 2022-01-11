@@ -1,6 +1,4 @@
 #include "Multime_dinamica.h"
-#include <iostream>
-#include <stdlib.h>
 
 using namespace std;
 
